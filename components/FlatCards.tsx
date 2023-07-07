@@ -19,7 +19,7 @@ export default function FlatCards() {
             <Text >PINK</Text>
         </View>
       </View>
-    </View>
+   </View>
   )
 }
 

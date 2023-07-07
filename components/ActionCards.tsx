@@ -40,9 +40,9 @@ export default function ActionCard() {
             >
                 <Text style={styles.socialLinks}>Follow me</Text>
             </TouchableOpacity>
-        </View>
+         </View>
       </View>
-    </View>
+   // </View>
   )
 }
 

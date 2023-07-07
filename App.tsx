@@ -9,7 +9,7 @@ import ContactList from './components/ContactCards'
 const App = () => {
   return (
     
-    //<View>
+    <View>
         <ScrollView>
           <FlatCards/>
           <ElevatedCards/>
@@ -17,7 +17,7 @@ const App = () => {
           <ActionCard/>
          <ContactList/>
        </ScrollView>
-   //</View>
+   </View>
     
   )
 }
